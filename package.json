@@ -1,10 +1,10 @@
 {
-  "name": "@scola/view-capability-preset",
+  "name": "@scola/capability-preset",
   "version": "1.0.0",
   "description": "Capabilities Preset",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scola84/node-view-capability-preset.git"
+    "url": "git+https://github.com/scola84/node-capability-preset.git"
   },
   "author": "M.C. van den Boogaart <scola@kvdb.name>",
   "license": "MIT",
@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "@scola/di": "^2.0.0",
-    "@scola/view-capability": "^1.0.0"
+    "@scola/capability": "^1.0.0"
   }
 }

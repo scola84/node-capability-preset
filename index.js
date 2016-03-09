@@ -15,7 +15,6 @@ class Module extends DI.Module {
 }
 
 module.exports = {
-  Dispatcher: Capability.Dispatcher,
   Module,
   Capability
 };
