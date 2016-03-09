@@ -1,7 +1,7 @@
 'use strict';
 
 const DI = require('@scola/di');
-const Capability = require('@scola/view-capability');
+const Capability = require('@scola/capability');
 
 class Module extends DI.Module {
   configure() {
